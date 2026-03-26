@@ -8,9 +8,8 @@ const Header = () => {
     return (
         <header className="fixed top-0 w-full z-50 glass-nav">
             <nav className="flex justify-between items-center max-w-7xl mx-auto px-6 h-20">
-                <div className="flex items-center gap-2">
-                    <Image src="/logo.png" alt="Vinality Logo" width={32} height={32} className="rounded-sm" />
-                    <span className="text-xl font-extrabold tracking-tighter text-white font-headline">VINALITY</span>
+                <div className="flex items-center">
+                    <Image src="/logo.png" alt="Vinality Logo" width={48} height={48} className="rounded-lg object-contain" />
                 </div>
                 <div className="hidden md:flex items-center gap-8">
                     <a className="text-[#c3f400] font-bold border-b-2 border-[#c3f400] pb-1 font-label text-sm uppercase tracking-widest" href="#">Visión</a>
