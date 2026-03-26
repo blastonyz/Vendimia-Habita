@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.agent/skills/javascript/SKILL.md
+.agent/skills/nextjs/SKILL.md
+.agent/skills/premium-design/SKILL.md
+.agent/skills/react/SKILL.md
+.agent/skills/tailwind/SKILL.md
+.agent/skills/typescript/SKILL.md
