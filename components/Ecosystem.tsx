@@ -7,7 +7,7 @@ const Ecosystem = () => {
                 <div className="text-center mb-16">
                     <span className="text-primary-fixed font-label text-sm tracking-widest uppercase mb-4 block">Ecosistema Habita</span>
                     <h2 className="font-headline font-bold text-4xl text-white mb-6">Una Red Totalmente Integrada</h2>
-                    <p className="text-secondary max-w-2xl mx-auto">Conectamos a todos los actores clave en un solo entorno digital orquestado por inteligencia artificial.</p>
+                    <p className="text-secondary max-w-2xl mx-auto">Conectamos propietarios, arquitectos, constructoras y proveedores en una sola plataforma, con la IA orquestando el flujo de información y los pagos.</p>
                 </div>
                 <div className="relative">
                     {/* Mobile View: Vertical Cards */}
@@ -15,22 +15,22 @@ const Ecosystem = () => {
                         <div className="bg-surface-container-high p-8 rounded-xl border border-outline-variant hover:border-primary-fixed transition-colors">
                             <span className="material-symbols-outlined text-primary-fixed text-4xl mb-4">home</span>
                             <h3 className="text-xl font-bold text-white mb-2">Propietarios</h3>
-                            <p className="text-sm text-secondary">Control total, transparencia financiera y visión en tiempo real de su inversión.</p>
+                            <p className="text-sm text-secondary">Visibilidad total del avance, pagos controlados por hitos y alertas tempranas ante riesgos.</p>
                         </div>
                         <div className="bg-surface-container-high p-8 rounded-xl border border-outline-variant hover:border-primary-fixed transition-colors">
                             <span className="material-symbols-outlined text-primary-fixed text-4xl mb-4">design_services</span>
                             <h3 className="text-xl font-bold text-white mb-2">Arquitectos</h3>
-                            <p className="text-sm text-secondary">Herramientas de diseño asistido y gestión de planos sin fricciones operativas.</p>
+                            <p className="text-sm text-secondary">Menos burocracia, más diseño: gestión centralizada de planos, revisiones y aprobaciones.</p>
                         </div>
                         <div className="bg-surface-container-high p-8 rounded-xl border border-outline-variant hover:border-primary-fixed transition-colors">
                             <span className="material-symbols-outlined text-primary-fixed text-4xl mb-4">construction</span>
                             <h3 className="text-xl font-bold text-white mb-2">Constructores</h3>
-                            <p className="text-sm text-secondary">Logística optimizada, flujos de caja seguros y cumplimiento de hitos por IA.</p>
+                            <p className="text-sm text-secondary">Cronogramas claros, materiales a tiempo y flujo de fondos previsible atado a hitos.</p>
                         </div>
                         <div className="bg-surface-container-high p-8 rounded-xl border border-outline-variant hover:border-primary-fixed transition-colors">
                             <span className="material-symbols-outlined text-primary-fixed text-4xl mb-4">inventory_2</span>
                             <h3 className="text-xl font-bold text-white mb-2">Proveedores</h3>
-                            <p className="text-sm text-secondary">Acceso a proyectos de élite con pagos automáticos garantizados vía Escrow.</p>
+                            <p className="text-sm text-secondary">Órdenes claras, pagos automatizados y acceso a obras verificadas sin perseguir cobranzas.</p>
                         </div>
                     </div>
                     {/* Schematic Connector (Desktop Only) */}

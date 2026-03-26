@@ -24,21 +24,21 @@ const ProblemSolution = () => {
                     <div className="order-1 lg:order-2">
                         <span className="text-primary-fixed font-label text-sm tracking-widest uppercase mb-4 block">La Solución</span>
                         <h2 className="font-headline font-bold text-4xl md:text-5xl text-white mb-8 leading-tight">
-                            La construcción no está rota. <br />La comunicación sí.
+                            La obra se cae en los detalles. <br />Ahí es donde intervenimos.
                         </h2>
                         <div className="space-y-8">
                             <div className="flex gap-4">
                                 <span className="material-symbols-outlined text-primary-fixed">terminal</span>
                                 <div>
                                     <h4 className="text-white font-bold mb-2">Supervisión Algorítmica</h4>
-                                    <p className="text-secondary">Nuestra IA escanea cada plano y contrato en busca de inconsistencias antes de que se conviertan en errores de obra.</p>
+                                    <p className="text-secondary">Nuestra IA revisa planos, presupuestos y contratos para detectar incoherencias antes de que se transformen en retrasos, sobrecostos o reclamos.</p>
                                 </div>
                             </div>
                             <div className="flex gap-4">
                                 <span className="material-symbols-outlined text-primary-fixed">account_balance</span>
                                 <div>
                                     <h4 className="text-white font-bold mb-2">Garantía Inmutable</h4>
-                                    <p className="text-secondary">Los contratos inteligentes aseguran que los fondos solo se liberen cuando los hitos sean verificados por inspectores externos.</p>
+                                    <p className="text-secondary">Los contratos inteligentes retienen el dinero y solo liberan cada pago cuando el avance de obra está verificado, para proteger tanto al cliente como al equipo técnico.</p>
                                 </div>
                             </div>
                         </div>

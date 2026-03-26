@@ -19,18 +19,18 @@ const Hero = () => {
                     El Curador Digital
                 </span>
                 <h1 className="font-headline font-extrabold text-5xl md:text-8xl tracking-tight text-white mb-8 leading-[1.1]">
-                    Tu Proyecto, <br />
-                    <span className="text-primary-fixed text-glow italic">Perfectamente Orquestado</span>
+                    Tu obra, <br />
+                    <span className="text-primary-fixed text-glow italic">sin sorpresas</span>
                 </h1>
                 <p className="text-secondary text-lg md:text-xl max-w-2xl mx-auto mb-12 font-body leading-relaxed">
-                    Elimine el caos de la construcción de alta gama. Habita combina la gestión de proyectos impulsada por IA con un mercado de élite de arquitectos verificados y depósitos en garantía fintech seguros.
+                    Habita usa inteligencia artificial y contratos inteligentes para ordenar tu obra, conectar con profesionales confiables y asegurar los pagos por hitos, para que construir deje de ser un salto al vacío.
                 </p>
                 <div className="flex flex-col md:flex-row gap-4 justify-center">
                     <button className="bg-primary-fixed text-on-primary-fixed px-10 py-5 rounded-full font-bold text-lg hover:scale-105 transition-transform flex items-center justify-center gap-2">
                         Empezar <span className="material-symbols-outlined">arrow_forward</span>
                     </button>
                     <button className="bg-surface-container-highest/50 backdrop-blur-md border border-outline-variant text-white px-10 py-5 rounded-full font-bold text-lg hover:bg-surface-bright transition-all">
-                        Ver Demo
+                        Ver demo
                     </button>
                 </div>
             </div>
