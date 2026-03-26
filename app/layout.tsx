@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { manrope, inter } from "./fonts";
+import { Providers } from "./providers";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -21,7 +22,7 @@ export default function RootLayout({
         />
       </head>
       <body className={`${manrope.variable} ${inter.variable} font-body antialiased bg-background text-on-background selection:bg-primary-fixed selection:text-on-primary-fixed`}>
-        {children}
+        <Providers>{children}</Providers>
       </body>
     </html>
   );
