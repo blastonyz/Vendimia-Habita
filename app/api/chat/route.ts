@@ -66,8 +66,7 @@ export async function POST(request: Request) {
             fulfillmentText: result?.fulfillmentText || "No entendí eso, ¿puedes repetirlo?"
         });
 
-    } catch (err: unknown) {
-        const error = err as { code?: number; message?: string };
+    } catch (error: any) {
         console.error('Dialogflow API Error Detail:', error);
 
         // Check for specific Dialogflow errors to return meaningful messages

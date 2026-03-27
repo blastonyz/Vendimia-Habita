@@ -23,7 +23,7 @@ const Hero = () => {
                     <span className="text-primary-fixed text-glow italic">sin sorpresas</span>
                 </h1>
                 <p className="text-secondary text-lg md:text-xl max-w-2xl mx-auto mb-12 font-body leading-relaxed">
-                    Vinality usa inteligencia artificial y contratos inteligentes para ordenar tu obra, conectar con profesionales confiables y asegurar los pagos por hitos, para que construir deje de ser un salto al vacío.
+                    Elimine la complejidad del desarrollo vitivinícola. Vinality combina gestión de proyectos impulsada por IA, una red curada de especialistas del ecosistema vitivinícola y administración segura de activos para viñedos, bodegas e infraestructura productiva.
                 </p>
                 <div className="flex flex-col md:flex-row gap-4 justify-center">
                     <button className="bg-primary-fixed text-on-primary-fixed px-10 py-5 rounded-full font-bold text-lg hover:scale-105 transition-transform flex items-center justify-center gap-2">

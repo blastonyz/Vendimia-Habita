@@ -16,7 +16,7 @@ const Security = () => {
                                 </div>
                                 <div>
                                     <h4 className="text-white font-bold text-lg mb-1">Pagos Seguros en Escrow</h4>
-                                    <p className="text-secondary text-sm">El cliente deposita una sola vez. Los fondos quedan bloqueados en un contrato inteligente y se liberan por etapas, según el avance validado.</p>
+                                    <p className="text-secondary text-sm">Los fondos y activos se administran con total transparencia y solo se liberan o actualizan tras la validación técnica de cada etapa del proyecto.</p>
                                 </div>
                             </div>
                             <div className="flex gap-6 p-6 rounded-xl bg-surface-container-high border border-outline-variant/50">
@@ -25,7 +25,7 @@ const Security = () => {
                                 </div>
                                 <div>
                                     <h4 className="text-white font-bold text-lg mb-1">Contratos Inteligentes</h4>
-                                    <p className="text-secondary text-sm">Las reglas se programan de antemano: quién cobra, cuándo y por qué. Menos discusiones, más claridad.</p>
+                                    <p className="text-secondary text-sm">Ejecución automática de condiciones contractuales y validaciones de hitos basadas en datos objetivos, reduciendo disputas y aumentando la confianza entre las partes.</p>
                                 </div>
                             </div>
                             <div className="flex gap-6 p-6 rounded-xl bg-surface-container-high border border-outline-variant/50">

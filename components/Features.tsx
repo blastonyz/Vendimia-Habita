@@ -7,7 +7,7 @@ const Features = () => {
             <div className="max-w-7xl mx-auto">
                 <div className="text-center mb-16">
                     <h2 className="font-headline font-bold text-4xl text-white mb-4">Domine cada detalle</h2>
-                    <p className="text-secondary">Un conjunto de herramientas creadas para el desarrollador y arquitecto moderno.</p>
+                    <p className="text-secondary">Un conjunto de herramientas creadas para el desarrollo, expansión y administración inteligente de proyectos vitivinícolas.</p>
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                     {/* AI Assistant */}
@@ -15,14 +15,14 @@ const Features = () => {
                         <div className="relative z-10">
                             <span className="material-symbols-outlined text-primary-fixed text-4xl mb-4">psychology</span>
                             <h3 className="text-2xl font-bold text-white mb-4">Asistente de IA</h3>
-                            <p className="text-secondary max-w-md">Consulte todo el historial de su proyecto. &quot;¿Cuál es nuestro riesgo actual si los materiales suben un 15%?&quot; Obtenga información instantánea respaldada por datos.</p>
+                            <p className="text-secondary max-w-md">Consulte todo el historial de su activo o proyecto. &quot;¿Cuál es nuestro riesgo actual si el sistema de riego se retrasa 20 días?&quot; Obtenga información instantánea respaldada por datos.</p>
                         </div>
                         <div className="relative z-10 mt-8 bg-surface-container-lowest p-4 rounded-lg border border-outline-variant max-w-sm self-end translate-y-4 group-hover:translate-y-0 transition-transform">
                             <div className="flex items-center gap-3 mb-2">
                                 <div className="w-2 h-2 rounded-full bg-primary-fixed"></div>
                                 <span className="text-[10px] text-primary-fixed uppercase font-bold tracking-widest">Análisis en Vivo</span>
                             </div>
-                            <p className="text-xs text-secondary italic">&quot;La adquisición de materiales para la Zona B está un 12% por debajo del presupuesto. Recomendación: Reasignar a acabados de fachada.&quot;</p>
+                            <p className="text-xs text-secondary italic">&quot;La expansión del bloque sur del viñedo está un 11% por debajo del presupuesto. Recomendación: reasignar capital a riego inteligente y eficiencia operativa.&quot;</p>
                         </div>
                     </div>
                     {/* Smart Matching */}
@@ -30,7 +30,7 @@ const Features = () => {
                         <div>
                             <span className="material-symbols-outlined text-primary-fixed text-4xl mb-4">groups</span>
                             <h3 className="text-2xl font-bold text-white mb-4">Emparejamiento de Élite</h3>
-                            <p className="text-secondary">Acceda a una red curada del top 1% de arquitectos y contratistas, validados por datos de rendimiento.</p>
+                            <p className="text-secondary">Acceda a una red curada de especialistas del ecosistema vitivinícola: ingenieros agrónomos, operadores, expertos en riego, infraestructura, logística y desarrollo de bodegas, validados por datos de desempeño.</p>
                         </div>
                         <div className="flex -space-x-4">
                             {[

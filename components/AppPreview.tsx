@@ -50,14 +50,14 @@ const AppPreview = () => {
                                 <div className="bg-surface-container-high p-3 rounded-lg flex items-center gap-3">
                                     <span className="material-symbols-outlined text-primary-fixed text-lg">verified</span>
                                     <div className="flex flex-col">
-                                        <span className="text-[10px] text-white font-bold">Cimentación Vertida</span>
+                                        <span className="text-[10px] text-white font-bold">Instalación de Riego Completada</span>
                                         <span className="text-[8px] text-secondary">Aprobado por Inspector 12:45</span>
                                     </div>
                                 </div>
                                 <div className="bg-surface-container-high p-3 rounded-lg flex items-center gap-3 opacity-50">
                                     <span className="material-symbols-outlined text-secondary text-lg">pending</span>
                                     <div className="flex flex-col">
-                                        <span className="text-[10px] text-white font-bold"	>Entrega de Acero</span>
+                                        <span className="text-[10px] text-white font-bold"	>Entrega de Equipamiento</span>
                                         <span className="text-[8px] text-secondary">Llegada Estimada: Mañana</span>
                                     </div>
                                 </div>

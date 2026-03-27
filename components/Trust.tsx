@@ -8,7 +8,7 @@ const Trust = () => {
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-12 opacity-50 grayscale">
                     <div className="flex flex-col items-center gap-2">
                         <span className="material-symbols-outlined text-4xl">apartment</span>
-                        <span className="text-xs font-bold tracking-widest uppercase">Apex Studio</span>
+                        <span className="text-xs font-bold tracking-widest uppercase">Andes Vineyard Lab</span>
                     </div>
                     <div className="flex flex-col items-center gap-2">
                         <span className="material-symbols-outlined text-4xl">foundation</span>
@@ -16,11 +16,11 @@ const Trust = () => {
                     </div>
                     <div className="flex flex-col items-center gap-2">
                         <span className="material-symbols-outlined text-4xl">precision_manufacturing</span>
-                        <span className="text-xs font-bold tracking-widest uppercase">Precision Lab</span>
+                        <span className="text-xs font-bold tracking-widest uppercase">Barrel Precision Group</span>
                     </div>
                     <div className="flex flex-col items-center gap-2">
                         <span className="material-symbols-outlined text-4xl">castle</span>
-                        <span className="text-xs font-bold tracking-widest uppercase">Heritage HQ</span>
+                        <span className="text-xs font-bold tracking-widest uppercase">Reserva Infrastructure</span>
                     </div>
                 </div>
             </div>

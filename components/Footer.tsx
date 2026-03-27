@@ -6,7 +6,7 @@ const Footer = () => {
             <div className="flex flex-col md:flex-row justify-between items-center py-12 px-8 max-w-7xl mx-auto gap-8">
                 <div className="flex flex-col items-center md:items-start transition-all">
                     <Image src="/logo.png" alt="Vinality Logo" width={100} height={34} className="mb-4 h-8 w-auto object-contain" />
-                    <p className="font-label text-sm tracking-wide text-[#c8c8b0] text-center md:text-left">© 2026 Vinality. Inteligencia Vinícola.</p>
+                    <p className="font-label text-sm tracking-wide text-[#c8c8b0] text-center md:text-left">© 2026 Vinality. Inteligencia para Activos Vitivinícolas.</p>
                 </div>
                 <div className="flex gap-8">
                     <a className="font-label text-sm tracking-wide text-[#c8c8b0] hover:text-[#c3f400] transition-colors" href="#">Plataforma</a>

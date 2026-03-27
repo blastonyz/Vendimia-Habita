@@ -31,7 +31,7 @@ const ProblemSolution = () => {
                                 <span className="material-symbols-outlined text-primary-fixed">terminal</span>
                                 <div>
                                     <h4 className="text-white font-bold mb-2">Supervisión Algorítmica</h4>
-                                    <p className="text-secondary">Nuestra IA revisa planos, presupuestos y contratos para detectar incoherencias antes de que se transformen en retrasos, sobrecostos o reclamos.</p>
+                                    <p className="text-secondary">Nuestra IA analiza planes, presupuestos, contratos y etapas críticas para detectar inconsistencias antes de que se conviertan en sobrecostos, demoras o riesgos operativos en proyectos vitivinícolas.		</p>
                                 </div>
                             </div>
                             <div className="flex gap-4">
