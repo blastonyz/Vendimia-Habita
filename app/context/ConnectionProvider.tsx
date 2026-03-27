@@ -48,7 +48,7 @@ function getQueryClient() {
 }
 
 const config = getDefaultConfig({
-    appName: 'HABITA',
+    appName: 'Vinality',
     projectId: process.env.NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID || '',
     chains: [avalancheFuji],
     transports: {

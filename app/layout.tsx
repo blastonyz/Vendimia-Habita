@@ -6,6 +6,17 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Vinality | Inteligencia Vinícola",
   description: "Tu obra, sin sorpresas. Ordená tu proyecto con IA y contratos inteligentes.",
+  openGraph: {
+    title: "Vinality | Inteligencia Vinícola",
+    description: "Tu obra, sin sorpresas. Ordená tu proyecto con IA y contratos inteligentes.",
+    images: ["/logo.png"],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Vinality | Inteligencia Vinícola",
+    description: "Tu obra, sin sorpresas. Ordená tu proyecto con IA y contratos inteligentes.",
+    images: ["/logo.png"],
+  },
 };
 
 export default function RootLayout({

@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 const Hero = () => {
     return (
-        <section className="relative min-h-[795px] flex items-center justify-center overflow-hidden px-6">
+        <section className="relative min-h-[795px] flex items-center justify-center overflow-hidden px-6" id="vision">
             <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-gradient-to-b from-transparent to-background z-10"></div>
                 <Image
