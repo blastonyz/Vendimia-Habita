@@ -8,6 +8,7 @@ import Trust from "@/components/Trust";
 import AppPreview from "@/components/AppPreview";
 import CTA from "@/components/CTA";
 import Footer from "@/components/Footer";
+import ChatWidget from "@/components/ChatWidget";
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
         <CTA />
       </div>
       <Footer />
+      <ChatWidget />
     </main>
   );
 }
